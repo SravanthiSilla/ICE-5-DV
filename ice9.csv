@@ -1,0 +1,25 @@
+Department,StudentName,Gender,GPA,AdmissionYear
+Computer Science,abc11,M,4,2020
+Business Analytics,abc12,F,3,2021
+Data Science,abc13,M,3.3,2019
+Information Systems,abc14,F,3.9,2018
+Health Informatics,abc15,M,3.66,2019
+Computer Engineering,abc16,F,4,2020
+Data Engineering,abc17,M,3,2020
+Construction Management,abc18,F,3.3,2021
+Computer Science,abc19,M,3.9,2019
+Business Analytics,abc20,F,3.66,2018
+Data Science,abc21,M,4,2019
+Information Systems,abc22,F,3,2020
+Health Informatics,abc23,M,3.3,2018
+Computer Engineering,abc24,F,3.9,2019
+Data Engineering,abc25,M,3.66,2020
+Construction Management,abc26,F,4,2018
+Computer Science,abc27,M,3,2019
+Business Analytics,abc28,F,3.3,2020
+Data Science,abc29,M,3.9,2018
+Information Systems,abc30,F,3.66,2019
+Health Informatics,abc31,M,4,2020
+Computer Engineering,abc32,F,3,2018
+Data Engineering,abc33,M,3.3,2019
+Construction Management,abc34,F,3.9,2020
